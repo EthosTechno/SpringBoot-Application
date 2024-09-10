@@ -1,0 +1,40 @@
+:root {
+--root:#7495d0;
+--main-bg-color:#f5f5f5;
+--breadcrumb-theme-bg:#7495d0;
+--breadcrumb-theme-title:#6c757d; 
+--breadcrumb-theme-icon:#fff;
+--panel-heading-bg:#fff;
+--title-theme:#065393;
+--label:#333;
+--btn-color:#333;
+--text-theme-focus:#7495d0;
+--font-color:#333;
+--placeholder:#999;
+--proposal-a-color:#ddd;
+--nav-tabs-border:#ddd;
+--tb-image:transparent;
+--border-blue-color:#fff;
+--tr-color:#3a3a3a; 
+--tr-odd:#00000013;
+--selectdropbtn-color:#333;
+--copy:#333;
+/*--bg-image:url(../image/bg-white-1.jpg) no-repeat center center fixed;*/
+--a-color:#333;
+--sb-panel-bg:transparent;
+--panel-border:#c1c1c1;
+--alert-color:#cfcfcf;
+--alert-danger-bg:#f26222;
+--alert-danger-color:#fff;
+--alert-success-bg:#018655;
+--alert-success-color:#fff;
+--alert-warning-bg:#ec971f;
+--alert-warning-color:#fff;
+--bms:#3c1c07;
+--a-red:#ff0b0b;
+--main-bg-light:rgb(43 62 80 / 0.8);
+--change-radio:#5b96ff;
+--pridicted-radio:#335798;
+--header-bg-color: #065393;
+--header-text-color: #fff;
+}
